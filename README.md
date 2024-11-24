@@ -1,4 +1,4 @@
-# Django E-commerce Project
+# Django E-commerce Project (170186 Kulubya Hassan)
 
 A simple Django-based e-commerce system demonstrating customer-order relationships.
 
@@ -16,8 +16,8 @@ This project implements a basic e-commerce data model with:
 
 1. Clone the repository
 bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone <https://github.com/Hassan-KreateStudio/cat-one-q1.git>
+cd <cat-one-q1>
 
 2. Create a virtual environment
 bash
